@@ -230,6 +230,7 @@ export default function Home() {
           </div>
           <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
             <p>&copy; 2024 Cash7 Soluções Financeiras. Todos os direitos reservados.</p>
+            <p className="mt-2 text-sm">CNPJ: 44.304.493/0001-29</p>
           </div>
         </div>
       </footer>
